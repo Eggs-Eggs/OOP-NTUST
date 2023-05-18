@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\a\Desktop\OOP實習\CS1010301W05\TS0405\Source.cpp(25,21): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\a\Desktop\OOP實習\CS1010301W05\TS0405\Source.cpp(28,27): warning C4018: '<': signed/unsigned 不相符
+  TS0405.vcxproj -> C:\Users\a\Desktop\OOP實習\CS1010301W05\x64\Debug\TS0405.exe
