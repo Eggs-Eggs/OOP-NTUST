@@ -1,0 +1,6 @@
+﻿  VecNf.cpp
+  main.cpp
+C:\Users\a\Desktop\OOP實習\CS1010301W10\TS0604\main.cpp(22,14): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  正在產生程式碼...
+C:\Users\a\Desktop\OOP實習\CS1010301W10\TS0604\VecNf.cpp(55): warning C4172: 傳回區域變數或暫存的位址: zero
+  TS0604.vcxproj -> C:\Users\a\Desktop\OOP實習\CS1010301W10\x64\Debug\TS0604.exe
