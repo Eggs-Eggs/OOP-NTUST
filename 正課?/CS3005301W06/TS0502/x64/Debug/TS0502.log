@@ -1,0 +1,6 @@
+﻿  Month.cpp
+C:\Users\a\Desktop\OOP正課\CS3005301W06\TS0502\Month.cpp(189,8): warning C4804: '<': 作業中不安全的使用類型 'bool'
+  main.cpp
+  正在產生程式碼...
+C:\Users\a\Desktop\OOP正課\CS3005301W06\TS0502\Month.cpp(199): warning C4715: 'Month::nextMonth': 不是所有控制路徑都傳回值
+  TS0502.vcxproj -> C:\Users\a\Desktop\OOP正課\CS3005301W06\x64\Debug\TS0502.exe
