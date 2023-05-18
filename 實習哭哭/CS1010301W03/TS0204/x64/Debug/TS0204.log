@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\a\Desktop\OOP實習\CS1010301W03\TS0204\Source.cpp(58,56): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\a\Desktop\OOP實習\CS1010301W03\TS0204\Source.cpp(72,37): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\a\Desktop\OOP實習\CS1010301W03\TS0204\Source.cpp(77,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0204.vcxproj -> C:\Users\a\Desktop\OOP實習\CS1010301W03\x64\Debug\TS0204.exe

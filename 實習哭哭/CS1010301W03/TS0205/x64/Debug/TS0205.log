@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\a\Desktop\OOP實習\CS1010301W03\TS0205\Source.cpp(55,29): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\a\Desktop\OOP實習\CS1010301W03\TS0205\Source.cpp(56,29): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0205.vcxproj -> C:\Users\a\Desktop\OOP實習\CS1010301W03\x64\Debug\TS0205.exe
