@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\a\Desktop\OOP實習\CS1010301W06\TS0504\main.cpp(132): warning C4715: 'cleanBool': 不是所有控制路徑都傳回值
+  TS0504.vcxproj -> C:\Users\a\Desktop\OOP實習\CS1010301W06\x64\Debug\TS0504.exe
