@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(199,65): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(201,70): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(205,65): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(207,70): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(218,65): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(220,70): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(224,65): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(226,70): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(237,27): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(241,70): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\a\Desktop\OOP正課\CS3005301W09\TS0803\Source.cpp(247): warning C4715: 'getData': 不是所有控制路徑都傳回值
+  TS0803.vcxproj -> C:\Users\a\Desktop\OOP正課\CS3005301W09\x64\Debug\TS0803.exe
